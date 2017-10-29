@@ -3,3 +3,12 @@ html
 	background-color: #0F0F0F;
 	color: #F8F8F0;
 }
+
+#words
+{
+	font-size: 3em;
+	font-family: monospace;
+	position: absolute;
+	margin-left: 25%;
+	margin-top: 5%;
+}
